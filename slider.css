@@ -1,0 +1,19 @@
+
+ img{
+    display:none;
+    width: 800px;
+    height: 500px;
+    margin-top: 80px;
+    margin-left: 250px;
+}
+.active{
+    display: block;
+}
+body{
+    background-color: #000;
+}
+.btn{
+    position: absolute;
+    left: 500px;
+    margin: 5px;
+}
